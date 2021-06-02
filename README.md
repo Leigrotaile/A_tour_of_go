@@ -1,1 +1,1 @@
-# A_tour_of_go
+Exersise https://tour.golang.org/
